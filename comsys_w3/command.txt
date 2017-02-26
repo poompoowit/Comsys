@@ -1,0 +1,6 @@
+# Build Docker [est.10GB Size] 
+sudo docker build -f Dockerfile -t python-opencv
+
+# Run countgrey.py
+
+sudo docker run --rm -v $PWD:/app -w /app python-opencv python countgrey.py

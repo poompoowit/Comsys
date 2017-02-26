@@ -1,0 +1,6 @@
+Number of instructions : 4045
+Overall effective CPI. : (Execution time*Frequency)/Instruction Count 
+			= 0.002*2.594002/4045
+			= 1282.57
+
+Spec Intel Core i7 4720HQ 2.60GHz
